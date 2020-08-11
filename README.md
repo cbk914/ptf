@@ -210,3 +210,4 @@ or
 
 ./ptf -nb
 ```
+[![Known Vulnerabilities](https://snyk.io/test/github/cbk914/ptf/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/cbk914/ptf?targetFile=requirements.txt)
